@@ -1,0 +1,4 @@
+userID     userName     userTel     userCredit     userSex
+qq123     123     123     100     ÄÐ    
+5     5     5     100     ÄÐ
+6     6     6     100     ÄÐ

@@ -1,0 +1,3 @@
+hotelID     hotelName     HotelTel     HotelIntroduction
+spacehehe     辣鸡百家酒店     95588     很不好的酒店
+admin     handSomeHotel     0123456     嘿嘿嘿
